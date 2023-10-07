@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.wrapper{
+    width: 400px;
+    height: 300px;
+    border-radius: 2px;
+    background: lightpink;
+    box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
+    padding: 50px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
